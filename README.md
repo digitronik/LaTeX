@@ -39,7 +39,7 @@ Note: Those are my suggestions, you can adopt any thing other than suggested.
 
 * [Guide](https://github.com/digitronik/latex/blob/master/GUIDE/Guide.pdf) Complate LaTeX guide for beginer Learning. It's prepared according to beginner requirement. Follow this for learning and practice. 
 
-*[Presentation](https://github.com/digitronik/latex/blob/master/GUIDE/Presentation.pdf)
+* [Presentation](https://github.com/digitronik/latex/blob/master/GUIDE/Presentation.pdf)
 
 ## Samples
  These are sample file for beginers
