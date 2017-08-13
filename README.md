@@ -28,8 +28,8 @@ LaTeX is a document preparation system for high-quality typesetting. It is most 
 
 3. *PDF viewer.*
  As we want PDF viewer, which self refresh as changes found.
- - Okular (https://okular.kde.org/) for Linux
- - SumatraPDF (https://www.sumatrapdfreader.org/) for windows
+ - [Okular] (https://okular.kde.org/) for Linux
+ - [SumatraPDF] (https://www.sumatrapdfreader.org/) for windows
 
 
 Note: Those are my suggestions, you can adopt any thing other than suggested.
