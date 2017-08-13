@@ -28,9 +28,25 @@ LaTeX is a document preparation system for high-quality typesetting. It is most 
 
 3. *PDF viewer.*
  As we want PDF viewer, which self refresh as changes found.
- - [Okular] (https://okular.kde.org/) for Linux
- - [SumatraPDF] (https://www.sumatrapdfreader.org/) for windows
-
+ - [Okular](https://okular.kde.org/) for Linux
+ - [SumatraPDF](https://www.sumatrapdfreader.org/) for windows
 
 Note: Those are my suggestions, you can adopt any thing other than suggested.
 
+
+## Guid
+ Guid directory include:
+
+* [Guide](https://github.com/digitronik/latex/blob/master/GUIDE/Guide.pdf) Complate LaTeX guide for beginer Learning. It's prepared according to beginner requirement. Follow this for learning and practice. 
+
+*[Presentation](https://github.com/digitronik/latex/blob/master/GUIDE/Presentation.pdf)
+
+## Samples
+ These are sample file for beginers
+* Hello > First file in LaTeX
+* Letter > Template for Letter Writting using LaTeX
+* Report > Template for Report 
+* Beamer > Beamer class used in LaTeX for making good Presentations
+* IEEE Paper > Sample Confarence Paper Writting
+* Thesis > Templates for UG and PG students
+* Assignments > Practice Assignments
