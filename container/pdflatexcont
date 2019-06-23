@@ -1,0 +1,3 @@
+#!/bin/sh
+IMAGE=digitronik/latex:latest
+exec docker run --rm -i -v "$PWD":/data "$IMAGE" pdflatex "$@"
