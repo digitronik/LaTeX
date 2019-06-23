@@ -1,20 +1,39 @@
 # Containerised LaTeX setup
 Its docker container with [Texlive](http://www.tug.org/texlive/).
 
-# Setup
+## Setup
 - Make sure you have running docker setup
 - Clone repository:
-```bash
-git clone https://github.com/digitronik/LaTeX.git
-```
+    ```bash
+    git clone https://github.com/digitronik/LaTeX.git
+    ```
 - Create executable files:
-```bash
-cp LaTeX/DOCKER/pdflatexcont /bin/.   # for pdflatex
-```
+    ```bash
+    chmod +x LaTeX/container/*cont
+    cp LaTeX/container/*cont /bin/.
+    ```
+
+**Note:** Above scripts are using `digitronik/latex` image which builds with current `Dockerfile`.
+No need to build `Dockerfile` locally.
+
+
 
 ## Usages
 - Run specific LaTeX command
-
+    ```bash
+    latexcont pdflatex foo.tex
+    ```
 - PDFLatex
-
+    ```bash
+    pdflatexcont foo.tex
+    ```
 - XELatex
+    ```bash
+    xelatexcont pdflatex foo.tex
+    ```
+
+- Personally, I use [Kile](http://kile.sourceforge.net/) as my LaTeX IDE and integrate it easily 
+
+    Settings > Configure kile > Build
+    
+    In PDFLaTeX > replace command `latex` with `pdflatexcont`
