@@ -17,6 +17,7 @@ LaTeX is a document preparation system for high-quality typesetting. It is most 
 ## Set up for LaTeX
 
 1. *LaTeX Distributions.*
+ - [Container](./container) for running LaTeX
  - [MiKTeX](https://miktex.org/about) for Windows.
  - [Texlive](http://www.tug.org/texlive/) for Unix, GNU/Linux and Windows
 
@@ -34,12 +35,12 @@ LaTeX is a document preparation system for high-quality typesetting. It is most 
 Note: Those are my suggestions, you can adopt any thing other than suggested.
 
 
-## Guid
- Guid directory include:
+## Guide
+ Guide directory include:
 
-* [Guide](https://github.com/digitronik/latex/blob/master/GUIDE/Guide.pdf) Complate LaTeX guide for beginer Learning. It's prepared according to beginner requirement. Follow this for learning and practice. 
+* [Guide](https://github.com/digitronik/latex/blob/master/guide/Guide.pdf) Complate LaTeX guide for beginer Learning. It's prepared according to beginner requirement. Follow this for learning and practice. 
 
-* [Presentation](https://github.com/digitronik/latex/blob/master/GUIDE/Presentation.pdf)
+* [Presentation](https://github.com/digitronik/latex/blob/master/guide/Presentation.pdf)
 
 ## Samples
  These are sample file for beginers

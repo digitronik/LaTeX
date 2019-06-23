@@ -13,7 +13,7 @@ Its docker container with [Texlive](http://www.tug.org/texlive/).
     cp LaTeX/container/*cont /bin/.
     ```
 
-**Note:** Above scripts are using `digitronik/latex` image which builds with current `Dockerfile`.
+**Note:** Above scripts are using [digitronik/latex](https://hub.docker.com/r/digitronik/latex) image which builds with current `Dockerfile`.
 No need to build `Dockerfile` locally.
 
 
@@ -29,7 +29,7 @@ No need to build `Dockerfile` locally.
     ```
 - XELatex
     ```bash
-    xelatexcont pdflatex foo.tex
+    xelatexcont foo.tex
     ```
 
 - Personally, I use [Kile](http://kile.sourceforge.net/) as my LaTeX IDE and integrate it easily 
